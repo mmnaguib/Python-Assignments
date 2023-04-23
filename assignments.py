@@ -253,3 +253,37 @@ print(nums.update(letters))
     #------- assign 5 -------
     #------- assign 5 -------
 #------- assignments 26 To 32 Videos ----------
+#------- assignments 33 To 37 Videos ----------
+#==========assign 1============
+    #print(bool(1))
+    #print(bool(True))
+    #print(bool(100))
+    #print(bool("m"))
+    #print(bool(0))
+    #print(bool(False))
+    #print(bool(''))
+    #print(bool(None))
+#==========assign 1============
+#==========assign 2============
+    #html = 80
+    #css = 60
+    #javascript = 70
+    #print(html > 50 and css > 50 and javascript > 50)
+#==========assign 2============
+#==========assign 3============
+    #num_one = 10
+    #num_two = 20
+    #num = 20
+    #print(num > num_one or num > num_two)
+    #print(num > num_one and num > num_two)
+#==========assign 3============
+#==========assign 4============
+    #num_one = 10
+    #num_two = 20
+    #result = num_one + num_two
+    #print(result)
+    #print(result**3)
+    #print((result**3) % 26000)
+    #print(((result**3) % 26000) / 5)
+    #print(type(str((((result**3) % 26000) / 5))))
+#==========assign 4============
